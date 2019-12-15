@@ -1,0 +1,259 @@
+body {
+  font-family:"Abel";
+  background-color: #fff;
+}
+h1 {
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 20px;
+
+}
+h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5
+}
+h3{
+  color: #696969;
+
+}
+
+p{
+  color: #8f8f8f;
+  line-height: 1;
+
+}
+li{
+  color: #8f8f8f;
+  line-height: 1.5;
+  text-align: left;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+
+
+#title {
+  background-image: url(../images/time-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #000;
+}
+
+/* Navbar */
+
+.navbar{
+  padding:  0.5rem;
+  background-color: #D3D3D3;
+}
+.navbar-light .navbar-brand{
+  color: #696969;
+
+}
+
+.navbar-brand {
+  font-family: "Abel";
+  font-size: 1rem;
+  font-weight: 400;
+  margin-left: 20px;
+}
+
+.nav-item{
+  padding: 0 18px;
+  color: #fff;
+}
+.nav-link {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.title-text {
+  text-align: center;
+  padding: 20px;
+
+  margin-top: 20%;
+  margin-bottom: 10%
+
+}
+
+/* CallToActionButton */
+
+.Abutton{
+   margin: 5% 5% 5% 5%;
+   background-color: #696969;
+
+}
+/* home section */
+
+
+.home{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.intro-title{
+
+  color: #696969;
+}
+.intro-text{
+  padding: 5% 3% 5% 0;
+
+}
+.laptop {
+  padding-top: 20px;
+  width: 100%;
+    height: 110%;}
+
+/* about-me */
+
+#ABOUT-ME{
+  background-color: #D3D3D3;
+  padding-top: 4%;
+  padding-bottom: 4%
+}
+
+.am-title {
+  font-size: 2.5rem;
+  text-align: left;
+  color: #696969;
+
+}
+.about-me-text {text-align:justify;
+  padding-right: 50px;
+}
+
+.about-me-image{
+  float:right;
+  width: 20%;
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+/* BUSINESS-SERVICES */
+
+#BUSINESS-SERVICES{
+  background-color: #fff;
+}
+.bs-intro{
+  background-image: url(../images/dreamstime_B.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+.title-bs{
+padding: 10% 0 10% 0;
+
+}
+.H1BS{
+  color:#696969;
+
+}
+.p-bs{ text-align: center;
+  color:#696969;
+padding: 0 10px 0 10px;
+
+}
+
+/* Features */
+
+.features {
+  background-color: #fff;
+}
+.feature-box {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+}
+.icon{
+  padding-bottom: 20px;
+  color: #696969;
+}
+
+/* specialist services */
+
+.specialist{
+  background-color: #fff;
+  text-align: center;
+  padding: 2% 0 2% 0
+}
+.specialist-ul{
+  display: inline-block;
+        padding-top: 15px;
+}
+.SS-h1{
+  margin-bottom: 0;
+  margin-left: 0;
+  color: #696969;
+
+}
+
+.web-image {
+  float:left;
+  margin-left: 10%;
+  width:15%
+}
+
+/* Contact */
+#CONTACT{
+background-color: #D3D3D3;
+}
+
+.contact-box{
+  text-align: center;
+
+}
+#c-h2{
+  padding-top: 3%;
+  color: #696969;
+
+}
+.c-p-h2{
+  padding: 0 10px 3% 10px;
+}
+.btn-contact{
+  color: #696969;
+}
+
+
+
+/* Footer */
+
+
+#FOOTER{
+  background-color: #fff;
+
+}
+.bottom-box{
+  text-align: center;
+  padding: 10px 0;
+
+
+}
+.to-top1{display: block;
+margin-top: 40px;
+margin-left: 50%;
+margin-right: auto;
+padding-bottom: 0;
+
+}
+
+.footer-link{
+
+  margin-left: 20px;
+  margin-right: auto;
+  color:#696969;
+}
+.copywright{
+  color:#696969;
+
+}
